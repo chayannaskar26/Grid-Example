@@ -1,0 +1,1 @@
+This is a simple CSS Grid Example using div with text and background color.
